@@ -7,6 +7,7 @@ Created buy Gaurav, the stack is the following:
 - Better Auth
 - Drizzle
 - Neon
+- Biome (linter and formatter)
 
 ## Set up
 
